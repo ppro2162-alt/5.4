@@ -1,0 +1,63 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USSER\\Desktop\\\u043B\u0430\u0431\u0438\\\u0430\u043F 5.4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6114BF7C-694E-4648-9300-CA0357C4153B}|\u0430\u043F 5.4\\\u0430\u043F 5.4.vcxproj|C:\\Users\\USSER\\Desktop\\\u043B\u0430\u0431\u0438\\\u0430\u043F 5.4\\\u0430\u043F 5.4\\\u0430\u043F 5.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6114BF7C-694E-4648-9300-CA0357C4153B}|\u0430\u043F 5.4\\\u0430\u043F 5.4.vcxproj|solutionrelative:\u0430\u043F 5.4\\\u0430\u043F 5.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F304D0A9-5345-8AD6-D086-3882A999476D}|UnitTest5.4\\UnitTest5.4.vcxproj|C:\\Users\\USSER\\Desktop\\\u043B\u0430\u0431\u0438\\\u0430\u043F 5.4\\UnitTest5.4\\UnitTest5.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F304D0A9-5345-8AD6-D086-3882A999476D}|UnitTest5.4\\UnitTest5.4.vcxproj|solutionrelative:UnitTest5.4\\UnitTest5.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u0430\u043F 5.4.cpp",
+              "DocumentMoniker": "C:\\Users\\USSER\\Desktop\\\u043B\u0430\u0431\u0438\\\u0430\u043F 5.4\\\u0430\u043F 5.4\\\u0430\u043F 5.4.cpp",
+              "RelativeDocumentMoniker": "\u0430\u043F 5.4\\\u0430\u043F 5.4.cpp",
+              "ToolTip": "C:\\Users\\USSER\\Desktop\\\u043B\u0430\u0431\u0438\\\u0430\u043F 5.4\\\u0430\u043F 5.4\\\u0430\u043F 5.4.cpp",
+              "RelativeToolTip": "\u0430\u043F 5.4\\\u0430\u043F 5.4.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-19T16:54:26.656Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest5.4.cpp",
+              "DocumentMoniker": "C:\\Users\\USSER\\Desktop\\\u043B\u0430\u0431\u0438\\\u0430\u043F 5.4\\UnitTest5.4\\UnitTest5.4.cpp",
+              "RelativeDocumentMoniker": "UnitTest5.4\\UnitTest5.4.cpp",
+              "ToolTip": "C:\\Users\\USSER\\Desktop\\\u043B\u0430\u0431\u0438\\\u0430\u043F 5.4\\UnitTest5.4\\UnitTest5.4.cpp",
+              "RelativeToolTip": "UnitTest5.4\\UnitTest5.4.cpp",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAAUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-19T17:05:07.63Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
